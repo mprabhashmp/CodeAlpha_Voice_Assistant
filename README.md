@@ -4,7 +4,7 @@ It allows you to perform various tasks and interact with your computer using voi
 #CodeAlpha
 <br>
 <hr>
-<ul>Features
+<ul><b><h3>Features</h3></b>
 <li>Speech recognition to understand voice commands</li>
 <li>Get the current time with the time command</li>
 <li>Retrieve information about a person from Wikipedia with the who is command</li>
@@ -15,14 +15,14 @@ It allows you to perform various tasks and interact with your computer using voi
 
 <hr>
 
-<h3>To run the Speech Recognition Assistant, follow these steps:</h3>
+<h3><b>To run the Speech Recognition Assistant, follow these steps:</b></h3>
 
 <i>Clone the repository:</i>
 git clone(https://github.com/mprabhashmp/CodeAlpha_Voice_Assistant.git)
 Install the required dependencies: pip install -r requirements.txt
 [Alpha Requirements.txt](https://github.com/mprabhashmp/CodeAlpha_Voice_Assistant/files/15033486/Alpha.Requirements.txt)
 
-<b>Usage</b>
+<h3><b>Usage</b></h3>
 Run the script: python voice_assistant.py 
 Make sure you have a working microphone connected to your system.
 Start speaking commands when prompted with "Listening..."
