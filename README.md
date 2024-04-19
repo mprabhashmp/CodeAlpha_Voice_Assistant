@@ -4,14 +4,14 @@ It allows you to perform various tasks and interact with your computer using voi
 #CodeAlpha
 <br>
 <hr>
-<ol>Features
+<ul>Features
 <li>Speech recognition to understand voice commands</li>
 <li>Get the current time with the time command</li>
-<li>Retrieve information about a person from Wikipedia with the who is command<li>
+<li>Retrieve information about a person from Wikipedia with the who is command</li>
 <li>Tell jokes using the joke command</li>
 <li>GUI Interface</li>
 <li>Generate code based on a given prompt with the generate code command</li>
-</ol>
+</ul>
 
 <hr>
 
