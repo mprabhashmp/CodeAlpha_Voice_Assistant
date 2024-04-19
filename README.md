@@ -18,7 +18,7 @@ It allows you to perform various tasks and interact with your computer using voi
 <h3><b>To run the Speech Recognition Assistant, follow these steps:</b></h3>
 
 <i>Clone the repository:</i>
-git clone(https://github.com/mprabhashmp/CodeAlpha_Voice_Assistant.git)
+git clone(https://github.com/mprabhashmp/CodeAlpha_Voice_Assistant.git)</br>
 Install the required dependencies: pip install -r requirements.txt
 [Alpha Requirements.txt](https://github.com/mprabhashmp/CodeAlpha_Voice_Assistant/files/15033486/Alpha.Requirements.txt)
 
