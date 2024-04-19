@@ -18,7 +18,7 @@ It allows you to perform various tasks and interact with your computer using voi
 <h3>To run the Speech Recognition Assistant, follow these steps:</h3>
 
 <i>Clone the repository:</i>
-git clone(https://github.com/AbinandhMJ/Python-ALEXA-SpeechRecognition-Assistant)
+git clone(https://github.com/mprabhashmp/CodeAlpha_Voice_Assistant.git)
 Install the required dependencies: pip install -r requirements.txt
 [Alpha Requirements.txt](https://github.com/mprabhashmp/CodeAlpha_Voice_Assistant/files/15033486/Alpha.Requirements.txt)
 
@@ -27,7 +27,7 @@ Run the script: python voice_assistant.py
 Make sure you have a working microphone connected to your system.
 Start speaking commands when prompted with "Listening..."
 The assistant will recognize your voice command and perform the corresponding action.
-Here are some of the things that the assistant can do:
 
 
-  ![Screenshot 2024-04-19 102738](https://github.com/mprabhashmp/CodeAlpha_Voice_Assistant/assets/120329245/295e87d9-4f0e-4997-8d7f-7397208ced42)
+![Screenshot 2024-04-19 102738](https://github.com/mprabhashmp/CodeAlpha_Voice_Assistant/assets/120329245/8426aaaa-48ec-4465-9dfd-959c828b6908)
+
